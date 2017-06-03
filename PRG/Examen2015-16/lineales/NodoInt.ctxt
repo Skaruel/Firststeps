@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.params=d
+comment0.target=NodoInt(int)
+comment0.text=Constructor\ A
+comment1.params=d\ s
+comment1.target=NodoInt(int,\ NodoInt)
+comment1.text=Constructor\ B
+comment2.params=sec
+comment2.target=void\ mostrar(NodoInt)
+comment3.params=sec\ maximo
+comment3.target=void\ saturar(NodoInt,\ int)
+comment4.params=sec\ i
+comment4.target=NodoInt\ buscar(NodoInt,\ int)
+comment5.params=sec\ d\ i
+comment5.target=NodoInt\ insertar(NodoInt,\ int,\ int)
+comment6.params=sec\ d
+comment6.target=NodoInt\ insertar(NodoInt,\ int)
+comment7.params=sec\ d
+comment7.target=NodoInt\ borrar(NodoInt,\ int)
+comment8.params=sec\ umbral
+comment8.target=NodoInt\ borrar2(NodoInt,\ int)
+numComments=9

@@ -1,0 +1,26 @@
+#BlueJ class context
+comment0.params=
+comment0.target=ListaPIIntEnla()
+comment1.params=
+comment1.target=boolean\ esVacia()
+comment10.params=x
+comment10.target=boolean\ buscarInicio(int)
+comment11.params=x
+comment11.target=boolean\ buscarSiguiente(int)
+comment2.params=
+comment2.target=int\ talla()
+comment3.params=
+comment3.target=void\ inicio()
+comment4.params=
+comment4.target=void\ siguiente()
+comment5.params=
+comment5.target=boolean\ esFin()
+comment6.params=x
+comment6.target=void\ insertar(int)
+comment7.params=
+comment7.target=int\ eliminar()
+comment8.params=
+comment8.target=int\ recuperar()
+comment9.params=ant\ x
+comment9.target=boolean\ buscar(NodoInt,\ int)
+numComments=12

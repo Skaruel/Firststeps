@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=
+comment0.target=PilaIntEnla()
+comment1.params=x
+comment1.target=void\ apilar(int)
+comment2.params=
+comment2.target=int\ desapilar()
+comment3.params=
+comment3.target=int\ cima()
+comment4.params=
+comment4.target=boolean\ esVacia()
+comment5.params=
+comment5.target=int\ talla()
+numComments=6

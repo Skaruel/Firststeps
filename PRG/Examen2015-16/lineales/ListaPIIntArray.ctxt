@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.params=
+comment0.target=ListaPIIntArray()
+comment1.params=
+comment1.target=boolean\ esVacia()
+comment2.params=
+comment2.target=int\ talla()
+comment3.params=
+comment3.target=void\ inicio()
+comment4.params=
+comment4.target=void\ siguiente()
+comment5.params=
+comment5.target=boolean\ esFin()
+comment6.params=x
+comment6.target=void\ insertar(int)
+comment7.params=
+comment7.target=void\ duplicaArray()
+comment8.params=
+comment8.target=int\ eliminar()
+comment9.params=
+comment9.target=int\ recuperar()
+numComments=10

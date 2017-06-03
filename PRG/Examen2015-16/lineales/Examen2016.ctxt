@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Examen2016
+comment0.text=\n\ Write\ a\ description\ of\ class\ Examen2016\ here.\n\ \n\ @author\ (your\ name)\ \n\ @version\ (a\ version\ number\ or\ a\ date)\n
+comment1.params=lS
+comment1.target=void\ m1(java.lang.String[])
+comment2.params=s
+comment2.target=ListaPIIntEnla\ leer(java.lang.String)
+comment3.params=lista1\ lista2
+comment3.target=ListaPIIntEnla\ eliminComunes(ListaPIIntEnla,\ ListaPIIntEnla)
+comment3.text=Precondicion\:\ lista1\ y\ lista2\ no\ contienen\ elementos\ repetidos.\ *
+numComments=4
